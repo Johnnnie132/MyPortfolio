@@ -1,0 +1,58 @@
+
+
+.mainimage {
+    height: 200px;
+    float: left;
+
+}
+
+.bkrnd {
+    background-color: aqua;
+    text-align: center;
+    height:200px;
+    width: 1000px;
+    margin: auto;
+    
+    
+    
+}
+
+.titname {
+    font-family: 'Lato';
+    text-align: center;
+    font-size: 20px;
+    
+}
+.aboutme {
+    width: 40%;
+}
+.aboutme p {
+    font-family: 'Work Sans';
+}
+.projects {
+    width: 40%;
+    font-family: 'Work Sans';    
+}
+.meat {
+    
+    display: flex;
+    justify-content: space-between;
+}
+.icons {
+    width: 20px;
+    height: 20px;
+}
+.socials {
+    height: 20px;
+    margin-left: 10px;
+    
+
+}
+.socialism li {
+    display: inline-flex;   
+    justify-content: start;
+   
+}
+ul.socialism {
+ 
+}
