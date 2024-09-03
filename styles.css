@@ -10,7 +10,7 @@
     background-color: aqua;
     text-align: center;
     height:200px;
-    width: 1000px;
+    width: 80%;
     margin: auto;
     
     
@@ -21,6 +21,7 @@
     font-family: 'Lato';
     text-align: center;
     font-size: 20px;
+    color: white;
     
 }
 .aboutme {
@@ -48,10 +49,16 @@
     
 
 }
-.socialism li {
-    display: inline-flex;   
-    justify-content: start;
-   
+footer {
+  
+    display: flex;
+    justify-content: space-between;
+    width: 20%;
+    
+}
+
+footer a {
+    margin-left: -10px;
 }
 ul.socialism {
  
